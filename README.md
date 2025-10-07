@@ -1,5 +1,5 @@
 # GBCWeb-Portfolio
-Social Gym Hub Website | A web platform designed to connect fitness enthusiasts and track progress
+Social Gym Hub Website | A web platform designed to connect fitness enthusiasts and track progress <br>
 https://gbcwebsite.onrender.com/
 
 
@@ -9,4 +9,4 @@ The site uses math on user input to calculate a strength score, that users can t
 
 The site is still being developed, and there are many, many more feature that are coming!
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-07 144955" src="https://github.com/user-attachments/assets/ccc7edc6-4d46-475b-a64e-c2db088b8570" />
+<img width="1920" height="928" alt="Screenshot 2025-10-07 144955" src="https://github.com/user-attachments/assets/00983750-81b4-45e4-9a53-200fe3f9a255" />
